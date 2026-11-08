@@ -1,0 +1,34 @@
+{
+	"id": "bh1750",
+	"name": "BH1750 (GY-302)",
+	"category": "sensor",
+	"description": "Ambient light sensor with a light window.",
+	"length": 18.5,
+	"width": 13.9,
+	"thickness": 1.6,
+	"topHeight": 1.5,
+	"bottomHeight": 2.5,
+	"ports": [],
+	"topOpenings": [
+		{
+			"id": "window",
+			"label": "Light window",
+			"type": "circle",
+			"x": 2,
+			"y": 0,
+			"width": 6,
+			"height": 6
+		}
+	],
+	"supports": [],
+	"pins": [
+		{
+			"x": -7.98,
+			"y": -5.08,
+			"count": 5,
+			"axis": "y"
+		}
+	],
+	"defaultPins": "none",
+	"color": "#1d4d8f"
+}

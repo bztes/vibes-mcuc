@@ -1,0 +1,65 @@
+{
+	"id": "esp32-s3-devkitc-1",
+	"name": "ESP32-S3 DevKitC-1",
+	"category": "mcu",
+	"description": "Two USB-C ports (UART + native USB).",
+	"length": 62.74,
+	"width": 25.4,
+	"thickness": 1.6,
+	"topHeight": 4.5,
+	"bottomHeight": 2,
+	"ports": [
+		{
+			"id": "usb-uart",
+			"label": "USB-C",
+			"side": "left",
+			"offset": -6.3,
+			"z": 1.65,
+			"width": 9,
+			"height": 3.3,
+			"shape": "rect"
+		},
+		{
+			"id": "usb-otg",
+			"label": "USB-C",
+			"side": "left",
+			"offset": 6.3,
+			"z": 1.65,
+			"width": 9,
+			"height": 3.3,
+			"shape": "rect"
+		}
+	],
+	"topOpenings": [],
+	"supports": [
+		{
+			"x": -29.5,
+			"y": 0,
+			"width": 3,
+			"height": 16
+		},
+		{
+			"x": 29.5,
+			"y": 0,
+			"width": 3,
+			"height": 16
+		}
+	],
+	"pins": [
+		{
+			"x": -23.37,
+			"y": -11.43,
+			"count": 22,
+			"axis": "x"
+		},
+		{
+			"x": -23.37,
+			"y": 11.43,
+			"count": 22,
+			"axis": "x"
+		}
+	],
+	"defaultPins": "bottom",
+	"pinsExact": true,
+	"color": "#1a1a1a"
+}

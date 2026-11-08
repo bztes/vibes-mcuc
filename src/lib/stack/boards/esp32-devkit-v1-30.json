@@ -1,0 +1,54 @@
+{
+	"id": "esp32-devkit-v1-30",
+	"name": "ESP32 DevKit V1 (30 pin)",
+	"category": "mcu",
+	"description": "DOIT style ESP32-WROOM-32 board.",
+	"length": 51.5,
+	"width": 28.3,
+	"thickness": 1.6,
+	"topHeight": 4.5,
+	"bottomHeight": 2,
+	"ports": [
+		{
+			"id": "usb",
+			"label": "Micro-USB",
+			"side": "left",
+			"offset": 0,
+			"z": 1.4,
+			"width": 7.5,
+			"height": 2.8,
+			"shape": "rect"
+		}
+	],
+	"topOpenings": [],
+	"supports": [
+		{
+			"x": -23.5,
+			"y": 0,
+			"width": 3.5,
+			"height": 18
+		},
+		{
+			"x": 23.5,
+			"y": 0,
+			"width": 3.5,
+			"height": 18
+		}
+	],
+	"pins": [
+		{
+			"x": -17.67,
+			"y": -12.7,
+			"count": 15,
+			"axis": "x"
+		},
+		{
+			"x": -17.67,
+			"y": 12.7,
+			"count": 15,
+			"axis": "x"
+		}
+	],
+	"defaultPins": "bottom",
+	"color": "#1d4d8f"
+}

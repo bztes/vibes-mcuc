@@ -1,0 +1,55 @@
+{
+	"id": "esp32-devkitc-38",
+	"name": "ESP32 DevKitC (38 pin)",
+	"category": "mcu",
+	"description": "Espressif ESP32-DevKitC V4.",
+	"length": 54.3,
+	"width": 27.94,
+	"thickness": 1.6,
+	"topHeight": 4.5,
+	"bottomHeight": 2,
+	"ports": [
+		{
+			"id": "usb",
+			"label": "Micro-USB",
+			"side": "left",
+			"offset": 0,
+			"z": 1.4,
+			"width": 7.5,
+			"height": 2.8,
+			"shape": "rect"
+		}
+	],
+	"topOpenings": [],
+	"supports": [
+		{
+			"x": -25,
+			"y": 0,
+			"width": 3.5,
+			"height": 18
+		},
+		{
+			"x": 19.4,
+			"y": 0,
+			"width": 3.4,
+			"height": 18
+		}
+	],
+	"pins": [
+		{
+			"x": -25.86,
+			"y": -12.7,
+			"count": 19,
+			"axis": "x"
+		},
+		{
+			"x": -25.86,
+			"y": 12.7,
+			"count": 19,
+			"axis": "x"
+		}
+	],
+	"defaultPins": "bottom",
+	"pinsExact": true,
+	"color": "#1a1a1a"
+}

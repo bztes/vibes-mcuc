@@ -1,0 +1,41 @@
+{
+	"id": "esp32-c3-supermini",
+	"name": "ESP32-C3 SuperMini",
+	"category": "mcu",
+	"description": "Tiny ESP32-C3 board with USB-C.",
+	"length": 22.5,
+	"width": 18,
+	"thickness": 1,
+	"topHeight": 3.5,
+	"bottomHeight": 0,
+	"ports": [
+		{
+			"id": "usb",
+			"label": "USB-C",
+			"side": "left",
+			"offset": 0,
+			"z": 1.65,
+			"width": 9,
+			"height": 3.3,
+			"shape": "rect"
+		}
+	],
+	"topOpenings": [],
+	"supports": [],
+	"pins": [
+		{
+			"x": -8.89,
+			"y": -7.62,
+			"count": 8,
+			"axis": "x"
+		},
+		{
+			"x": -8.89,
+			"y": 7.62,
+			"count": 8,
+			"axis": "x"
+		}
+	],
+	"defaultPins": "none",
+	"color": "#1d4d8f"
+}

@@ -1,0 +1,25 @@
+{
+	"id": "led-5mm",
+	"name": "LED 5 mm",
+	"category": "io",
+	"description": "Through-lid LED hole, light pipe friendly.",
+	"length": 6,
+	"width": 6,
+	"thickness": 1,
+	"topHeight": 8,
+	"bottomHeight": 0,
+	"ports": [],
+	"topOpenings": [
+		{
+			"id": "led",
+			"label": "LED hole",
+			"type": "circle",
+			"x": 0,
+			"y": 0,
+			"width": 5.2,
+			"height": 5.2
+		}
+	],
+	"supports": [],
+	"color": "#c0392b"
+}

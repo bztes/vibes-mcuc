@@ -1,0 +1,35 @@
+{
+	"id": "relay-1ch",
+	"name": "Relay module 1-ch",
+	"category": "io",
+	"description": "5 V relay with screw terminal; wire opening on the terminal side.",
+	"length": 50,
+	"width": 26,
+	"thickness": 1.6,
+	"topHeight": 17,
+	"bottomHeight": 2.5,
+	"ports": [
+		{
+			"id": "terminal",
+			"label": "Mains wires",
+			"side": "right",
+			"offset": 0,
+			"z": 5,
+			"width": 16,
+			"height": 8,
+			"shape": "rect"
+		}
+	],
+	"topOpenings": [],
+	"supports": [],
+	"pins": [
+		{
+			"x": -23.73,
+			"y": -2.54,
+			"count": 3,
+			"axis": "y"
+		}
+	],
+	"defaultPins": "none",
+	"color": "#1d4d8f"
+}

@@ -1,0 +1,43 @@
+{
+	"id": "hc-sr04",
+	"name": "HC-SR04 Ultrasonic",
+	"category": "sensor",
+	"description": "Distance sensor, transducers through the lid.",
+	"length": 45,
+	"width": 20,
+	"thickness": 1.6,
+	"topHeight": 12,
+	"bottomHeight": 2,
+	"ports": [],
+	"topOpenings": [
+		{
+			"id": "tx",
+			"label": "Transducer T",
+			"type": "circle",
+			"x": -13,
+			"y": 0,
+			"width": 16.6,
+			"height": 16.6
+		},
+		{
+			"id": "rx",
+			"label": "Transducer R",
+			"type": "circle",
+			"x": 13,
+			"y": 0,
+			"width": 16.6,
+			"height": 16.6
+		}
+	],
+	"supports": [],
+	"pins": [
+		{
+			"x": -3.81,
+			"y": -8.73,
+			"count": 4,
+			"axis": "x"
+		}
+	],
+	"defaultPins": "none",
+	"color": "#1d4d8f"
+}

@@ -1,0 +1,41 @@
+{
+	"id": "nodemcu-v3",
+	"name": "NodeMCU v3 (LoLin)",
+	"category": "mcu",
+	"description": "ESP8266 NodeMCU, wide version, 4 × M3 holes.",
+	"length": 57.5,
+	"width": 31,
+	"thickness": 1.6,
+	"topHeight": 5,
+	"bottomHeight": 2,
+	"ports": [
+		{
+			"id": "usb",
+			"label": "Micro-USB",
+			"side": "left",
+			"offset": 0,
+			"z": 1.4,
+			"width": 7.5,
+			"height": 2.8,
+			"shape": "rect"
+		}
+	],
+	"topOpenings": [],
+	"supports": [],
+	"pins": [
+		{
+			"x": -17.24,
+			"y": -13.97,
+			"count": 15,
+			"axis": "x"
+		},
+		{
+			"x": -17.24,
+			"y": 13.97,
+			"count": 15,
+			"axis": "x"
+		}
+	],
+	"defaultPins": "bottom",
+	"color": "#1a1a1a"
+}

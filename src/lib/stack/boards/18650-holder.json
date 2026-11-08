@@ -1,0 +1,15 @@
+{
+	"id": "18650-holder",
+	"name": "18650 holder (1 cell)",
+	"category": "power",
+	"description": "Single-cell battery holder.",
+	"length": 77,
+	"width": 21,
+	"thickness": 1.5,
+	"topHeight": 19,
+	"bottomHeight": 0,
+	"ports": [],
+	"topOpenings": [],
+	"supports": [],
+	"color": "#222222"
+}

@@ -1,0 +1,42 @@
+{
+	"id": "esp32-h2-zero",
+	"name": "ESP32-H2 Zero / Super Mini",
+	"category": "mcu",
+	"description": "Tiny ESP32-H2 board with USB-C. Sized to the Waveshare Zero; Super Mini clones vary slightly.",
+	"length": 23.5,
+	"width": 18,
+	"thickness": 1,
+	"topHeight": 3.5,
+	"bottomHeight": 0,
+	"ports": [
+		{
+			"id": "usb",
+			"label": "USB-C",
+			"side": "left",
+			"offset": 0,
+			"z": 1.65,
+			"width": 9,
+			"height": 3.3,
+			"shape": "rect"
+		}
+	],
+	"topOpenings": [],
+	"supports": [],
+	"pins": [
+		{
+			"x": -10.16,
+			"y": -7.62,
+			"count": 9,
+			"axis": "x"
+		},
+		{
+			"x": -10.16,
+			"y": 7.62,
+			"count": 9,
+			"axis": "x"
+		}
+	],
+	"defaultPins": "none",
+	"pinsExact": true,
+	"color": "#1d4d8f"
+}

@@ -1,0 +1,42 @@
+{
+	"id": "wemos-d1-mini",
+	"name": "Wemos D1 mini",
+	"category": "mcu",
+	"description": "ESP8266 D1 mini (v3/v4).",
+	"length": 34.2,
+	"width": 25.6,
+	"thickness": 1,
+	"topHeight": 4,
+	"bottomHeight": 2,
+	"ports": [
+		{
+			"id": "usb",
+			"label": "Micro-USB",
+			"side": "left",
+			"offset": -5.5,
+			"z": 1.4,
+			"width": 7.5,
+			"height": 2.8,
+			"shape": "rect"
+		}
+	],
+	"topOpenings": [],
+	"supports": [],
+	"pins": [
+		{
+			"x": -8.89,
+			"y": -11.43,
+			"count": 8,
+			"axis": "x"
+		},
+		{
+			"x": -8.89,
+			"y": 11.43,
+			"count": 8,
+			"axis": "x"
+		}
+	],
+	"defaultPins": "none",
+	"pinsExact": true,
+	"color": "#1d4d8f"
+}

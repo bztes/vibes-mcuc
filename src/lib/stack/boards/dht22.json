@@ -1,0 +1,25 @@
+{
+	"id": "dht22",
+	"name": "DHT22 / AM2302",
+	"category": "sensor",
+	"description": "Bare DHT22 lying flat, grille facing up.",
+	"length": 25.1,
+	"width": 15.1,
+	"thickness": 1,
+	"topHeight": 6.7,
+	"bottomHeight": 0,
+	"ports": [],
+	"topOpenings": [
+		{
+			"id": "grille",
+			"label": "Sensor grille",
+			"type": "vent",
+			"x": 2,
+			"y": 0,
+			"width": 16,
+			"height": 12
+		}
+	],
+	"supports": [],
+	"color": "#e8e8e8"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "tp4056",
+	"name": "TP4056 charger (USB-C)",
+	"category": "power",
+	"description": "Li-Ion charger module.",
+	"length": 28,
+	"width": 17.5,
+	"thickness": 1.6,
+	"topHeight": 3.5,
+	"bottomHeight": 1.5,
+	"ports": [
+		{
+			"id": "usb",
+			"label": "USB-C",
+			"side": "left",
+			"offset": 0,
+			"z": 1.65,
+			"width": 9,
+			"height": 3.3,
+			"shape": "rect"
+		}
+	],
+	"topOpenings": [
+		{
+			"id": "leds",
+			"label": "Charge LEDs",
+			"type": "rect",
+			"x": 6,
+			"y": 0,
+			"width": 3,
+			"height": 8
+		}
+	],
+	"supports": [],
+	"color": "#1d4d8f"
+}

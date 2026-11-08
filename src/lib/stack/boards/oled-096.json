@@ -1,0 +1,34 @@
+{
+	"id": "oled-096",
+	"name": "OLED 0.96\" SSD1306",
+	"category": "display",
+	"description": "128×64 I²C OLED, 4 × M2 holes, display window in the lid.",
+	"length": 27.3,
+	"width": 27.8,
+	"thickness": 1.2,
+	"topHeight": 1.6,
+	"bottomHeight": 2.5,
+	"ports": [],
+	"topOpenings": [
+		{
+			"id": "window",
+			"label": "Display window",
+			"type": "rect",
+			"x": 0,
+			"y": -0.5,
+			"width": 23.5,
+			"height": 13
+		}
+	],
+	"supports": [],
+	"pins": [
+		{
+			"x": -3.81,
+			"y": 12.63,
+			"count": 4,
+			"axis": "x"
+		}
+	],
+	"defaultPins": "none",
+	"color": "#1d4d8f"
+}

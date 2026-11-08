@@ -1,0 +1,34 @@
+{
+	"id": "oled-13",
+	"name": "OLED 1.3\" SH1106",
+	"category": "display",
+	"description": "128×64 I²C OLED, display window in the lid.",
+	"length": 35.4,
+	"width": 33.5,
+	"thickness": 1.2,
+	"topHeight": 1.7,
+	"bottomHeight": 2.5,
+	"ports": [],
+	"topOpenings": [
+		{
+			"id": "window",
+			"label": "Display window",
+			"type": "rect",
+			"x": 0,
+			"y": -0.5,
+			"width": 30.5,
+			"height": 16
+		}
+	],
+	"supports": [],
+	"pins": [
+		{
+			"x": -3.81,
+			"y": 15.48,
+			"count": 4,
+			"axis": "x"
+		}
+	],
+	"defaultPins": "none",
+	"color": "#1d4d8f"
+}
