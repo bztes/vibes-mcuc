@@ -8,3 +8,7 @@ Design stackable, 3D-printable enclosures for ESP32 / ESP8266 boards, sensors an
 pnpm install
 pnpm dev
 ```
+
+## License
+
+[AGPL-3.0-or-later](LICENSE)
